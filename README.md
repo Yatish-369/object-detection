@@ -24,4 +24,3 @@ The model is capable of detecting objects in images and visualizing the results 
 
 ---
 
-## 📂 Project Structure
